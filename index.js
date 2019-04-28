@@ -17,7 +17,7 @@ function logWhisper (string){
 
 function sayHiToGrandma (string){
   'hello'.toLowerCase()
-  if (string.toLowerCase() === lowercase){
+  if (string.toLowerCase() === 'hello'){
   return "I can't hear you!";
 }
 }
