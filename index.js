@@ -14,9 +14,10 @@ function logWhisper (string){
   const spy="HELLO".toLowerCase()
   console.log(spy)
 }
+
 function sayHiToGrandma (string){
   var lowercase='hello'.toLowerCase()
-  if (lowercase.toLowerCase() === lowercase){
+  if (lowercase.toLowerCase() === uppercase){
   return "I can't hear you!";
 }
 }
