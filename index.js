@@ -25,7 +25,7 @@ function sayHiToGrandma (string){
 
 function sayHiToGrandma (string){
   var sting='HELLO'
- if (string === "uppercase"){
+ if (string === uppercase){
   return "YES INDEED!";
 }
 }
